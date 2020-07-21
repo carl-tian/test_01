@@ -1,0 +1,4 @@
+#股略所有.js
+*.js
+#排除index.html
+!base.js
